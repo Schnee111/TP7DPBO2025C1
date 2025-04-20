@@ -152,7 +152,4 @@ Struktur folder Recipes_Management:
 
 ## Dokumentasi
 
-
-https://github.com/user-attachments/assets/efee8955-c0c7-4ba7-b4e8-a784536e8fc1
-
-
+https://github.com/user-attachments/assets/96d6042e-13f2-4e8d-bbe3-263ba5af3160
